@@ -1,12 +1,4 @@
-# Reinforcement Learning Project
-
-# Members:
-- Andre
-- Warren
-- Oguz
-- Lawrence
-- Tom
-- Sam
+# Using DQN variations for OpenAI Gym Boxing
 
 # Instructions For Usage:
 
